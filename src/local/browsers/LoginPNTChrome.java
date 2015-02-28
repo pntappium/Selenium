@@ -9,6 +9,7 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+//Modified this file for git tutorial
 public class LoginPNTChrome {
 	
 	ChromeDriver driver;
